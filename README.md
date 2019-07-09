@@ -4,10 +4,6 @@ SpringBoard Project Proposal
 Kristine B. Rabii
 7/8/2019
 output:
-  pdf_document: default
-  html_document: default
-  word_document: default
----
 
 ## Capstone Project Proposal
 
