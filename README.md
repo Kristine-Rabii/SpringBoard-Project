@@ -1,9 +1,10 @@
 # SpringBoard-Project
 ---
 SpringBoard Project Proposal
+
 Kristine B. Rabii
+
 7/8/2019
-output:
 
 ## Capstone Project Proposal
 
