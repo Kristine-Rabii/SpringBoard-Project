@@ -1,17 +1,13 @@
 # SpringBoard-Project
 ---
-"SpringBoard Project Proposal"
-"Kristine B. Rabii"
-"7/8/2019"
+SpringBoard Project Proposal
+Kristine B. Rabii
+7/8/2019
 output:
   pdf_document: default
   html_document: default
   word_document: default
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Capstone Project Proposal
 
